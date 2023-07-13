@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.geyifeng.immersionbar:immersionbar-components:3.2.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../大学学习/大三学期实训/LoginUI-Android-master/caches/transforms-3/7299bee75e11e575d5dcf338c9dd85de/transformed/jetified-immersionbar-components-3.2.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../大学学习/大三学期实训/LoginUI-Android-master/caches/transforms-3/7299bee75e11e575d5dcf338c9dd85de/transformed/jetified-immersionbar-components-3.2.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../大学学习/大三学期实训/LoginUI-Android-master/caches/modules-2/files-2.1/com.geyifeng.immersionbar/immersionbar-components/3.2.2/88996da3c28367d22f95fd555ed1974b3003db70/immersionbar-components-3.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

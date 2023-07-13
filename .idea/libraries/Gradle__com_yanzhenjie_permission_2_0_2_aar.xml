@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yanzhenjie:permission:2.0.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../大学学习/大三学期实训/LoginUI-Android-master/caches/transforms-3/c4c0643f973e12fe4b6e233e9e17a2b1/transformed/jetified-permission-2.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../大学学习/大三学期实训/LoginUI-Android-master/caches/transforms-3/c4c0643f973e12fe4b6e233e9e17a2b1/transformed/jetified-permission-2.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../../大学学习/大三学期实训/LoginUI-Android-master/caches/transforms-3/c4c0643f973e12fe4b6e233e9e17a2b1/transformed/jetified-permission-2.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../大学学习/大三学期实训/LoginUI-Android-master/caches/modules-2/files-2.1/com.yanzhenjie/permission/2.0.2/ccabc71a5dc4fc3004f25fbed755ead00ec40979/permission-2.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../大学学习/大三学期实训/LoginUI-Android-master/caches/modules-2/files-2.1/com.yanzhenjie/permission/2.0.2/b718789e783a150c523e4b27026a42d4a6662d0/permission-2.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

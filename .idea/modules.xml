@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/My_Application.iml" filepath="$PROJECT_DIR$/.idea/modules/My_Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MPChartLib/My_Application.MPChartLib.iml" filepath="$PROJECT_DIR$/.idea/modules/MPChartLib/My_Application.MPChartLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MPChartLib/My_Application.MPChartLib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/MPChartLib/My_Application.MPChartLib.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MPChartLib/My_Application.MPChartLib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/MPChartLib/My_Application.MPChartLib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MPChartLib/My_Application.MPChartLib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/MPChartLib/My_Application.MPChartLib.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_Application.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_Application.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_Application.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_Application.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_Application.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_Application.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_Application.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_Application.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/My_Application.library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/My_Application.library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/My_Application.library.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/library/My_Application.library.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/My_Application.library.main.iml" filepath="$PROJECT_DIR$/.idea/modules/library/My_Application.library.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/My_Application.library.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/library/My_Application.library.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vitamio/My_Application.vitamio.iml" filepath="$PROJECT_DIR$/.idea/modules/vitamio/My_Application.vitamio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vitamio/My_Application.vitamio.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/vitamio/My_Application.vitamio.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vitamio/My_Application.vitamio.main.iml" filepath="$PROJECT_DIR$/.idea/modules/vitamio/My_Application.vitamio.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vitamio/My_Application.vitamio.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/vitamio/My_Application.vitamio.unitTest.iml" />
+    </modules>
+  </component>
+</project>
