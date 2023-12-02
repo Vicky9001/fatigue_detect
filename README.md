@@ -6,3 +6,7 @@
 
 #
 小组成员：祁麟、张启洋、吕文俊、王思媛
+
+#
+![image](https://github.com/Vicky9001/fatigue_detect/assets/92198621/7b1fb191-9731-4251-baac-ebf18f35807c)
+![image](https://github.com/Vicky9001/fatigue_detect/assets/92198621/00a341f7-ab23-43b2-9c7b-aad2b0c5ced1)
